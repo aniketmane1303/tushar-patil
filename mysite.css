@@ -1,0 +1,189 @@
+#head {font-family: Georgia, 'Times New Roman', Times, serif;
+
+    background-color: rgb(248, 245, 245);
+    height: 300px;
+    width: 800px;
+    margin-left: 400px;
+    padding: 20px;
+    font-size:20px;
+    line-height: 3;
+}
+h1{
+    margin-top: 0;
+    text-align: center;
+    
+}
+
+#logo{
+    position:absolute;
+    right:50px;
+    top: 260px;
+    height: 15s0px;
+    width: 180px;
+}
+#p2{
+    text-align: center;
+    text-decoration-color: black;
+    text-decoration: underline;
+position: relative;
+top: 500px;
+right: 50px;
+}
+
+#instalink{
+    position:relative;
+  top:25px;
+  right:40px;
+}
+
+#facelink{
+    position: relative;
+    top: 20px;
+    left:400px;
+}
+#linkedlink{
+    position: relative;
+    top: 20px;
+    right: 70px;
+}
+#facelogo
+{
+    position: relative;
+    left: 470px;
+    height: 50px;
+width: 50px;
+
+}
+#instalogo
+{   
+    position: relative;
+    left: 30px;
+    height: 50px;
+    width: 50px;
+}
+#linkedlogo
+{  
+    height: 50px;
+    width: 50px;
+}
+#photo
+{
+    height: 250px;
+    width: 200px;
+    position: absolute;
+    right: 570px;
+    top: 100px;
+    border-radius: 150px;
+}
+#college{
+    font-weight:bold;
+}
+#course{
+    
+    font-weight:bold;
+}
+#address{
+    font-weight:bold;
+}
+#roles{
+    
+    font-weight:bold;
+}
+#walchandlogo{
+    position:absolute;
+    top: 0px;
+    left: 0px;
+}
+#gmaillogo{
+    height: 50px;
+    width:90px;
+    position:relative;
+    left:20px;
+}
+#gmaillink{
+    position:relative;
+    top: 10px;
+    right:55px;
+    
+}
+#programmerlogo{
+    position: relative;
+    height: 100px;
+    width: 120px;
+    left: 190px;
+    bottom: 25px;
+    border:solid 30px black;
+    border-radius:70px;
+    padding:20px;
+}
+#studentlogo{
+    position: relative;
+    height: 120px;
+    width: 160px;
+    left: 180px;
+    bottom: 0px;
+    border:solid 30px black;
+    border-radius: 70px;
+}
+#photographerlogo
+{   position: relative;
+    height: 120px;
+    width: 160px;
+    left: 180px;
+    bottom: 0px;
+    border:solid 30px black;
+    border-radius: 70px;
+
+}
+#profile
+{
+    position: relative;
+    top: 250px;
+}
+#social
+{
+    position: relative;
+    top: 800px;
+}
+#programmer
+{
+    position: relative;
+    left: 200px;
+    bottom: 10px;
+}
+#student
+{
+    position: relative;
+    left: 200px;
+}
+#photographer
+{
+    position: relative;
+    left: 200px;
+}
+#projects{
+    position: relative;
+    top: 1250px;
+    left: 650px;
+   font-size:x-large;
+   font-weight: bold;
+}
+#idea
+{
+    position:relative;
+    top: 1250px;
+    left: 300px;
+   font-size:x-large;
+   font-weight: bold;
+
+}
+#social
+{
+    position: relative;
+    top: 900px;
+}
+#query
+{
+    position: relative;
+    top:1700px;
+}

@@ -1,0 +1,28 @@
+form
+{
+font-size:x-large;
+}
+#i1
+{
+    position: relative;
+    top:10px;
+    left:50px;
+}
+#i2
+{
+    position: relative;
+    top:20px;
+    left:50px;
+}
+#i3
+{
+    position: relative;
+    top:30px;
+    left:50px;
+}
+#thank
+{
+    position: relative;
+    top:100px;
+    font-size: larger;
+}
